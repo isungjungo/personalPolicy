@@ -633,7 +633,7 @@
             {"\n"}② 불쾌감을 주는 컨텐츠는 다른 사용자들이 앱 자체서 신고할 수 있으며, 
             관리자에 판단에 따라 바로 삭제될 수 있습니다. 또한 사용자를 퇴출시킬 수 있습니다.
             {"\n"}
-            {"\n"}③ 부적절한 활동보고는 marsky.park@gmail.com 로 직접할 수 있습니다.
+            {"\n"}③ 부적절한 활동보고는 han041722@gmail.com 로 직접할 수 있습니다.
           
             Standard Terms and Conditions for E-commerce (Internet Cyber ​​Mall)
             {"\n"}
@@ -1115,7 +1115,7 @@
             {"\n"}
             2. 회원은 개인정보 수집 및 활용 관련 절과 조항에 명시된 바와 같이
             회원가입 등을 통해 개인정보의 수집, 이용, 제공에 대해 동의한 내용을
-            언제든지 철회할 수 있습니다. 동의 철회는 (marsky.park@gmail.com)
+            언제든지 철회할 수 있습니다. 동의 철회는 (han041722@gmail.com)
             등으로 연락하시면 회원탈퇴를 위해 필요한 조치를 합니다. 동의 철회를
             하고 개인정보를 파기하는 등의 조치를 한 경우에는 그 사실을 회원에게
             지체 없이 통지하도록 하겠습니다..
@@ -1413,7 +1413,7 @@
             {"\n"}- 성명 : 맹경빈
             {"\n"}
             {"\n"}
-            {"\n"}- 연락처 : marsky.park@gmail.com
+            {"\n"}- 연락처 : han041722@gmail.com
             {"\n"}
             {"\n"}
             {"\n"}
@@ -1608,7 +1608,7 @@
             provision of personal information at any time through membership
             registration, as specified in the sections and provisions related to
             the collection and use of personal information. To withdraw consent,
-            please contact (marsky.park@gmail.com), etc., and the necessary
+            please contact (han041722@gmail.com), etc., and the necessary
             measures will be taken to cancel membership. In the event of
             withdrawal of consent and destruction of personal information, we
             will notify the member without delay.
